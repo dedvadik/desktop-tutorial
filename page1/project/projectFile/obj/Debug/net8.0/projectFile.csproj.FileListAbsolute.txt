@@ -1,0 +1,15 @@
+C:\Users\admin\desktop-tutorial\page1\project\projectFile\bin\Debug\net8.0\projectFile.exe
+C:\Users\admin\desktop-tutorial\page1\project\projectFile\bin\Debug\net8.0\projectFile.deps.json
+C:\Users\admin\desktop-tutorial\page1\project\projectFile\bin\Debug\net8.0\projectFile.runtimeconfig.json
+C:\Users\admin\desktop-tutorial\page1\project\projectFile\bin\Debug\net8.0\projectFile.dll
+C:\Users\admin\desktop-tutorial\page1\project\projectFile\bin\Debug\net8.0\projectFile.pdb
+C:\Users\admin\desktop-tutorial\page1\project\projectFile\obj\Debug\net8.0\projectFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\desktop-tutorial\page1\project\projectFile\obj\Debug\net8.0\projectFile.AssemblyInfoInputs.cache
+C:\Users\admin\desktop-tutorial\page1\project\projectFile\obj\Debug\net8.0\projectFile.AssemblyInfo.cs
+C:\Users\admin\desktop-tutorial\page1\project\projectFile\obj\Debug\net8.0\projectFile.csproj.CoreCompileInputs.cache
+C:\Users\admin\desktop-tutorial\page1\project\projectFile\obj\Debug\net8.0\projectFile.sourcelink.json
+C:\Users\admin\desktop-tutorial\page1\project\projectFile\obj\Debug\net8.0\projectFile.dll
+C:\Users\admin\desktop-tutorial\page1\project\projectFile\obj\Debug\net8.0\refint\projectFile.dll
+C:\Users\admin\desktop-tutorial\page1\project\projectFile\obj\Debug\net8.0\projectFile.pdb
+C:\Users\admin\desktop-tutorial\page1\project\projectFile\obj\Debug\net8.0\projectFile.genruntimeconfig.cache
+C:\Users\admin\desktop-tutorial\page1\project\projectFile\obj\Debug\net8.0\ref\projectFile.dll
