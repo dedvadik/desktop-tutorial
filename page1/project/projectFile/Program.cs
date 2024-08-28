@@ -10,7 +10,8 @@
             System.Console.WriteLine("2. Для запуска проверки подписки нажмите 2");
             System.Console.WriteLine("3. Для запуска масива нажмите 3");
             System.Console.WriteLine("4. Для запуска подсчёта суммы нажмите 4");
-            System.Console.WriteLine("5. Для выхода из приложения нажмите q \n ");
+            System.Console.WriteLine("5. ");
+            System.Console.WriteLine("6. Для выхода из приложения нажмите q \n ");
 
             string m = Console.ReadLine();
             if (m == "1")
@@ -33,7 +34,11 @@
                 CheckSum masum = new();
                 Console.WriteLine(masum.Check());
             }
-            else if ( m == "q")
+            else if (m == "5")
+            {
+                
+            }
+            else if (m == "q")
             {
                 menu = false;
             }
