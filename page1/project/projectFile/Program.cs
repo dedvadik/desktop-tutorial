@@ -42,6 +42,10 @@
             {
                 menu = false;
             }
+            else if (m == "й")
+            {
+                menu = false;
+            }
             else
             {
                 System.Console.WriteLine("Нет такого пункта меню"); 
