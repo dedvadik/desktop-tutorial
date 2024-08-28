@@ -6,3 +6,15 @@ dotnet_diagnostic.CS8600.severity = none
 
 # CS8600: Преобразование литерала, допускающего значение NULL или возможного значения NULL в тип, не допускающий значение NULL.
 dotnet_diagnostic.CS8600.severity = silent
+
+dotnet_diagnostic.CS0161.severity = silent
+
+# Default severity for all analyzer diagnostics
+dotnet_analyzer_diagnostic.severity = silent
+
+
+# CA1822: Пометьте члены как статические
+dotnet_diagnostic.CA1822.severity = suggestion
+
+# Default severity for analyzer diagnostics with category 'Performance'
+dotnet_analyzer_diagnostic.category-Performance.severity = warning

@@ -36,7 +36,8 @@
             }
             else if (m == "5")
             {
-
+                NewCleanProg newClean = new();
+                System.Console.WriteLine(newClean.Prog());
             }
             else if (m == "q")
             {
