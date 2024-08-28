@@ -36,7 +36,7 @@
             }
             else if (m == "5")
             {
-                
+
             }
             else if (m == "q")
             {
@@ -46,7 +46,6 @@
             {
                 System.Console.WriteLine("Нет такого пункта меню"); 
             }
-            System.Console.ReadKey();
         }
     
     }
