@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "page1", "page1", "{87EB1575-9FCC-417E-A76D-4A57196CC3F8}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "page1", "page1", "{D81F8C06-769B-4C28-84B0-7353293D5409}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "project", "project", "{DB9B914F-B065-4F7A-A568-0390A455D0C5}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "project", "project", "{CF320B70-4D94-484D-98D1-527E70758E53}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "projectFile", "page1\project\projectFile\projectFile.csproj", "{C6B35383-F1F6-489F-B81E-3492A95404BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "projectFile", "page1\project\projectFile\projectFile.csproj", "{63F8C3C0-04E8-4809-B3D8-5667CC020FE9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,17 +15,17 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C6B35383-F1F6-489F-B81E-3492A95404BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C6B35383-F1F6-489F-B81E-3492A95404BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C6B35383-F1F6-489F-B81E-3492A95404BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C6B35383-F1F6-489F-B81E-3492A95404BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63F8C3C0-04E8-4809-B3D8-5667CC020FE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63F8C3C0-04E8-4809-B3D8-5667CC020FE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63F8C3C0-04E8-4809-B3D8-5667CC020FE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63F8C3C0-04E8-4809-B3D8-5667CC020FE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{DB9B914F-B065-4F7A-A568-0390A455D0C5} = {87EB1575-9FCC-417E-A76D-4A57196CC3F8}
-		{C6B35383-F1F6-489F-B81E-3492A95404BC} = {DB9B914F-B065-4F7A-A568-0390A455D0C5}
+		{CF320B70-4D94-484D-98D1-527E70758E53} = {D81F8C06-769B-4C28-84B0-7353293D5409}
+		{63F8C3C0-04E8-4809-B3D8-5667CC020FE9} = {CF320B70-4D94-484D-98D1-527E70758E53}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A67F6063-4458-4A59-86E2-54827A159FD6}
