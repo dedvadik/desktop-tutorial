@@ -18,3 +18,6 @@ dotnet_diagnostic.CA1822.severity = suggestion
 
 # Default severity for analyzer diagnostics with category 'Performance'
 dotnet_analyzer_diagnostic.category-Performance.severity = warning
+
+# CA1310: Используйте StringComparison, чтобы правильно указать намерение.
+dotnet_diagnostic.CA1310.severity = none
