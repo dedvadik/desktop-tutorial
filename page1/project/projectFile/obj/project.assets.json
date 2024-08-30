@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\admin\\.nuget\\packages\\": {}
+    "C:\\Users\\Desva\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\desktop-tutorial\\page1\\project\\projectFile\\projectFile.csproj",
+      "projectUniqueName": "D:\\GitHubRepo\\desktop-tutorial\\page1\\project\\projectFile\\projectFile.csproj",
       "projectName": "projectFile",
-      "projectPath": "C:\\Users\\admin\\desktop-tutorial\\page1\\project\\projectFile\\projectFile.csproj",
-      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\desktop-tutorial\\page1\\project\\projectFile\\obj\\",
+      "projectPath": "D:\\GitHubRepo\\desktop-tutorial\\page1\\project\\projectFile\\projectFile.csproj",
+      "packagesPath": "C:\\Users\\Desva\\.nuget\\packages\\",
+      "outputPath": "D:\\GitHubRepo\\desktop-tutorial\\page1\\project\\projectFile\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Desva\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
